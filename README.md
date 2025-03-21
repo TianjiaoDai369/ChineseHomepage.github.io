@@ -8,3 +8,5 @@
 我的主页可以在这里找到哦，不容错过，哈哈
 
 - [代天娇个人主页](https://tianjiaodai369.github.io/ChineseHomepage.github.io/)
+- [Tianjiao Dai homepage](https://TianjiaoDai369.github.io/)
+
