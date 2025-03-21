@@ -1,10 +1,8 @@
-# 🎖 Honors and Awards
-- *2021.10* Tencent Scholarship (Top 1%)
-- *2021.10* National Scholarship (Top 1%)
-- *2020.12* [Baidu Scholarship](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E5%A5%96%E5%AD%A6%E9%87%91/9929412) (10 students in the world each year)
-- *2020.12* [AI Chinese new stars](https://mp.weixin.qq.com/s?__biz=MzA4NzQ5MTA2NA==&mid=2653639431&idx=1&sn=25b6368c1954419b9090840347d9a27d&chksm=8be75b90bc90d286a5af3ef8e610e822d705dc3cf4382b45e3f14489f3e7ec4fd8c95ed0eceb&mpshare=1&scene=2&srcid=0511LMlj9Qv9DeIZAjMjYAU9&sharer_sharetime=1620731348139&sharer_shareid=631c113940cb81f34895aa25ab14422a#rd) (100 worldwide each year)
-- *2020.12* [AI Chinese New Star Outstanding Scholar](https://mp.weixin.qq.com/s?__biz=MzA4NzQ5MTA2NA==&mid=2653639431&idx=1&sn=25b6368c1954419b9090840347d9a27d&chksm=8be75b90bc90d286a5af3ef8e610e822d705dc3cf4382b45e3f14489f3e7ec4fd8c95ed0eceb&mpshare=1&scene=2&srcid=0511LMlj9Qv9DeIZAjMjYAU9&sharer_sharetime=1620731348139&sharer_shareid=631c113940cb81f34895aa25ab14422a#rd) (10 candidates worldwide each year)
-- *2020.12* [ByteDance Scholars Program](https://ur.bytedance.com/scholarship) (10 students in China each year)
-- *2020.10* Tianzhou Chen Scholarship (Top 1%)
-- *2020.10* National Scholarship (Top 1%)
-- *2015.10* National Scholarship (Undergraduate) (Top 1%)
+🎖 Honors and Awards
+- *2021* 华中大日照舰1号，海洋航行器设计与制作大赛2021年 国赛二等奖，指导教师：代天娇，[向先波](http://faculty.hust.edu.cn/xiangxianbo/zh_CN/index.htm)
+- *2023* 面向深海油气开采的柔性立管疲劳寿命快速预测技术，海洋航行器设计与制作大赛2023年 国赛二等奖，指导教师：代天娇，[吴军](http://faculty.hust.edu.cn/Junwu/zh_CN/index.htm)
+- *2023* 红外循迹船，海洋航行器设计与制作大赛2023年 国赛二等奖，指导教师：[吴军](http://faculty.hust.edu.cn/Junwu/zh_CN/index.htm)，代天娇
+- *2024* 海洋知识类竞赛，海洋航行器设计与制作大赛2024年 国赛二等奖，指导教师：[吴军](http://faculty.hust.edu.cn/Junwu/zh_CN/index.htm)，代天娇
+- *2023* 《船舶推进轴系健康监测与诊断虚拟仿真实验课程》，湖北省省级一流本科课程
+- *2021* 船海学院首届课程思政教学竞赛，一等奖
+- *2022* 华中科技大学教学竞赛，二等奖
