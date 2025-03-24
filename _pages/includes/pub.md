@@ -210,7 +210,7 @@ Weixiong Jiang, Kaiwei Yu, Jun Wu, **Tianjiao Dai**, Haiping Zhu
 
 Project: Dynamic umbilical JIP
 
-**[NTNU](https://www.ntnu.edu),SINTEF Ocean](https://www.sintef.no/globalassets/project/oilandgas/pdf/uflex.pdf), 2014.08 - 2018.07**
+**[NTNU](https://www.ntnu.edu),[SINTEF Ocean](https://www.sintef.no/globalassets/project/oilandgas/pdf/uflex.pdf), 2014.08 - 2018.07**
 
 - Practical skills of performing full scale test of umbilical under combined tension and bending loads. 
 - Contribute in programming to deal with test measurement for understanding the dynamic stress behavior of helical components and speed up the workflow.
