@@ -195,12 +195,9 @@ Weixiong Jiang, Kaiwei Yu, Jun Wu, **Tianjiao Dai**, Haiping Zhu
 
 **[IKM Ocean design AS](https://www.ikm.com/ikm-ocean-design/), 2013.08 - 2014.07**
 
-- Contribute in pipeline snaking route design and solved the post-buckling deformation controlled in an acceptable range.
-
-- Contribute in investigating the ocean current effect on the lateral displacement and lateral buckling of the steel pipe on bottom.
-
-- Contribute in establishing the complex full-scale trawling model 
-- Comprehensively investigate the impact and pull-over phase effect on the global response of pipeline
+- 管道蛇形路由设计，将管道屈曲后变形控制在可接受范围内。
+- 研究海流对海底钢管横向位移及横向屈曲的影响。
+- 构建复杂的全尺寸拖网模型，研究拖网冲击及跨越阶段对管道整体响应的影响 。 
 
 </div>
 </div>
@@ -212,10 +209,10 @@ Project: Dynamic umbilical JIP
 
 **[NTNU](https://www.ntnu.edu),[SINTEF Ocean](https://www.sintef.no/globalassets/project/oilandgas/pdf/uflex.pdf), 2014.08 - 2018.07**
 
-- Practical skills of performing full scale test of umbilical under combined tension and bending loads. 
-- Contribute in programming to deal with test measurement for understanding the dynamic stress behavior of helical components and speed up the workflow.
-- Develop new numerical modeling methodology of umbilical’s cross section and improve the dynamic stress accuracy. 
-- Present latest numerical analysis results and improvements in developing FE software (Bflex and Uflex) in important JIP meetings and software user meetings. 
+- 具备进行脐带缆在拉伸与弯曲组合载荷下全尺寸测试和处理实验测量数据的实践技能。
+- 二次开发有限元软件Bflex。
+- 开发脐带缆横截面的全新数值建模方法，提高动态应力计算的准确性。
+- 在重要的联合工业项目（JIP）会议及软件用户会议上展示最新的数值分析成果，以及有限元软件（Bflex和Uflex）开发方面的改进情况。 
 
 </div>
 </div>
@@ -225,19 +222,23 @@ Project: Dynamic umbilical JIP
 <div class='paper-box-text' markdown="1">
 
 
-Granted Project 6: Nonbonded flexible riser's structural failure analysis (industrial sponsored, China) (2025-2026)
-Granted Project 5: Light dynamic power cable design (research concil, China) oil and gas field (Ministryo f Natural Resources of the People's Republic of China) (2025-2027)
-Granted Project 4 : Fatigue mechanism study of dynamic umbilical applied in oil & gas industry (National Natural Science Foundation of China (NSFC), 2021-2023) 
-- Responsible to develop a new method to consider fretting fatigue in the conventional fatigue life.
-Granted Project 3: Structural analysis of flexible pipes applied in oil & gas industry (Fundamental Research Funds for the Central Universities, HUST, 2019-2021) 
-- Responsible to develop a new method to consider fretting fatigue in the conventional fatigue life.
-Granted Project 2: Dynamic response analysis of subsea power cable applied in oil & gas and wind turbine industry (Ministry of Science and Technology of the People’s republic of China, 2021-2022)
-- Solve the power cable response under current load in a stochastic way.
-- Propose a new global configuration design for reducing the power cable response in shallow water. 
-Granted Project 1: Fatigue life prediction of nonbonded flexible pipe applied in Xijiang (CNOOC, China) oil and gas field (industry sponsored) (2021-2022)
-- Perform global response analysis of flexible pipe under dynamic motion of FPSO and combined wave and current load conditions.
-- Develop a new method for the pipe fatigue life assessment when the annulus layer is wet or fully fulfilled with fluid, resulting in significant numerical analysis computation time saving.
+1. 非粘结柔性立管结构失效分析（中国，企业资助）（2025 - 2026年）
 
+2. 轻质动态电力电缆设计，重点研发计划子课题（中华人民共和国自然资源部）（2025 - 2027年）
+
+3. 油气行业用动态脐带缆疲劳机理研究（国家自然科学基金，2021 - 2023年）
+- 负责开发一种在传统疲劳寿命计算中考虑微动疲劳的新方法。
+
+4. 油气行业用柔性管道结构分析（华中科技大学中央高校基本科研业务费，2019 - 2021年）
+- 负责开发一种在传统疲劳寿命计算中考虑微动疲劳的新方法。
+
+5. 应用于油气及风力发电行业的海底电力电缆动态响应分析（中华人民共和国科学技术部，2021 - 2022年）
+- 以随机方法求解电力电缆在水流荷载作用下的响应。
+- 提出一种新的整体布局设计，以减小浅水区域电力电缆的响应。
+
+6. 应用于中国西江（中海油）油气田的非粘结柔性管道疲劳寿命预测（企业资助）（2021 - 2022年）
+- 对浮式生产储卸油装置动态运动以及波浪和水流联合荷载条件下的柔性管道进行整体响应分析。
+- 开发一种针对环形层潮湿或充满流体时管道疲劳寿命评估的新方法，显著节省数值分析计算时间。 
 
 </div>
 </div>
