@@ -221,7 +221,7 @@ Project: Dynamic umbilical JIP
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/HUST.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
+在[华中科技大学](https://www.hust.edu.cn)工作中，获得以下项目：
 1. 非粘结柔性立管结构失效分析（中国，企业资助）（2025 - 2026年）
 
 2. 轻质动态电力电缆设计，重点研发计划子课题（中华人民共和国自然资源部）（2025 - 2027年）
