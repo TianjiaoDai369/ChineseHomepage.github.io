@@ -186,7 +186,7 @@ Weixiong Jiang, Kaiwei Yu, Jun Wu, **Tianjiao Dai**, Haiping Zhu
 
 
 # 💻 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/IKM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div>image from SINTEF<img src='images/IKM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Project 1: Peregrino Phase II FEED SURF
