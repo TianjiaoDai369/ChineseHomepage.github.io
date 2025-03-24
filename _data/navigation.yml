@@ -1,17 +1,17 @@
 # main links links
 main:
-  - title: "About Me"
+  - title: "简介"
     url: "/#about-me"
 
 
-  - title: "Publications"
+  - title: "学术成果"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
+  - title: "奖项"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
+  - title: "教育背景"
     url: "/#-educations"
 
-  - title: "Work"
+  - title: "工作历程"
     url: "/#-Works"
