@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8facbf0f-3af4-40be-acad-2744aa553ebe)# 📝 Publications 
+# 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/publication5.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
