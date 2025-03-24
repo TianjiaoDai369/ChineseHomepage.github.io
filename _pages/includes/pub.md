@@ -224,10 +224,6 @@ Project: Dynamic umbilical JIP
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/HUST.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Project: Dynamic umbilical JIP
-
-**[NTNU](https://www.ntnu.edu),SINTEF Ocean](https://www.sintef.no/globalassets/project/oilandgas/pdf/uflex.pdf), 2014.08 - 2018.07**
-
 
 Granted Project 6: Nonbonded flexible riser's structural failure analysis (industrial sponsored, China) (2025-2026)
 Granted Project 5: Light dynamic power cable design (research concil, China) oil and gas field (Ministryo f Natural Resources of the People's Republic of China) (2025-2027)
@@ -241,7 +237,6 @@ Granted Project 2: Dynamic response analysis of subsea power cable applied in oi
 Granted Project 1: Fatigue life prediction of nonbonded flexible pipe applied in Xijiang (CNOOC, China) oil and gas field (industry sponsored) (2021-2022)
 - Perform global response analysis of flexible pipe under dynamic motion of FPSO and combined wave and current load conditions.
 - Develop a new method for the pipe fatigue life assessment when the annulus layer is wet or fully fulfilled with fluid, resulting in significant numerical analysis computation time saving.
-![image](https://github.com/user-attachments/assets/7c0fdf32-0348-4237-9979-35e5ef5c95e7)
 
 
 </div>
