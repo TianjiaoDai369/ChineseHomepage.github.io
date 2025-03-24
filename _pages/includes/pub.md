@@ -10,7 +10,7 @@
 
 **Ocean Engineering, 2024**
 
-- We 
+- 这篇文章全面介绍了柔性立管疲劳分析的过程，包括全局动力学分析、局部应力分析和疲劳损伤计算，同时详细说明了AK-MDAmax方法，并应用了AK-MDAmax这一高效的主动学习方法，该方法能以足够的精度预测无粘结柔性立管的长期疲劳损伤，相比于传统有限元方法，显著提高了疲劳评估的效率，估计效率约提升了27倍
 </div>
 </div>
 
@@ -24,7 +24,10 @@
 
 **Ocean Engineering, 2024**
 
-- We
+- 这篇文章来源于挪威国家石油Equinor的工业界项目，开发大型水下油轮用于运输液态二氧化碳回注边际油田，致力于绿色油田，节能减排。
+- 提出应用卸载控制模型，融合流线动力学与SST操纵控制策略，弥补OrcaFlex不足，精准评估系统响应与优化性能
+- 运用模型深入研究SST卸载，发现多种优化方式，如考虑时变张力、SLWR配置节能、减少压载降能耗等，大幅提升系统性能。
+- 卸载控制模型具广泛应用潜力，能拓展至与FPSO等船舶耦合分析及其他海洋工程相关研究领域 。 
 </div>
 </div>
 
@@ -36,7 +39,9 @@
 **Tianjiao Dai**,Sævik, Svein; Ye, Naiquan
 **Marine Structure, 2020**
 
-- We 
+- 阐述世界前沿光纤测量实验法，用于脐带缆内部单元应力测量与实尺寸实验
+- 运用自研先进摩擦模型结合 bflex 数值分析，与实验数据契合度极高
+- 研究成果适用于工业及学术界柔性立管、脐带缆、动态电缆的截面分析与强度校核 
 </div>
 </div>
 
@@ -48,7 +53,10 @@
 **Tianjiao Dai**,Sævik, Svein; Ye, Naiquan
 **Marine Structure, 2018**
 
-- We 
+- 研究揭示了接触压力对摩擦系数的影响，并提出了各向异性摩擦模型，为准确预测螺旋路径摩擦力提供了新方法，提升了脐带结构分析的可靠性。  
+
+- 通过引入HCONT453单元和2D摩擦模型，研究深入探讨了抗拉装甲层间的接触与摩擦机理，优化了力学建模方法，对脐带疲劳分析具有重要指导意义。
+
 </div>
 </div>
 
@@ -75,7 +83,7 @@ Li Pengjie, **Dai Tianjiao**, Jin Xing, Dong Leilei, Liu Shuaiqi, Yang Shuo, Xia
 
 **Ship and offshore structures 1-16, 2021.10, Impact factor, 1.977, 2021**
 
-- We 
+
 </div>
 </div>
 
@@ -88,7 +96,7 @@ Zhan Gao, Weixiong Jiang, Jun Wu*, **Tianjiao Dai**
 
 **Reliability Engineering & System Safety, 248(5):110162. 2024**
 
-- We 
+
 </div>
 </div>
 
@@ -100,7 +108,7 @@ Zhan Gao, Weixiong Jiang, Jun Wu*, **Tianjiao Dai**
 **Dai, Tianjiao**; Ye, Naiquan.; Sævik, Svein. 
 **OMAE, - International Conference on Ocean, Offshore & Arctic Engineering, 2017**
 
-- We 
+
 </div>
 </div>
 
@@ -113,7 +121,7 @@ Zhan Gao, Weixiong Jiang, Jun Wu*, **Tianjiao Dai**
 **Dai, Tianjiao**;  Sævik, Svein; Ye, Naiquan.
 **ISOPE - International Offshore and Polar Engineering Conference, 2016**
 
-- We 
+
 </div>
 </div>
 
@@ -125,7 +133,7 @@ Zhan Gao, Weixiong Jiang, Jun Wu*, **Tianjiao Dai**
 Wang, Howard; Ye, Naiquan; **Dai, Tianjiao**; Sævik, Svein.
 **ISOPE - International Offshore and Polar Engineering Conference, 2015**
 
-- We 
+
 </div>
 </div>
 
@@ -139,7 +147,7 @@ Deng Qi, Guanhui Zhao, Weixiong Jiang, Weixiong Jiang,Jun Wu, **Tianjiao Dai**
 
 **Sensors 24(18):6142, 2024**
 
-- We 
+
 </div>
 </div>
 
@@ -153,7 +161,7 @@ Zhan Gao; Weixiong Jiang; Jun Wu; **Tianjiao Dai**
 
 **IEEE Sensors Journal Volume:25 Issue:4, 2024**
 
-- We 
+
 </div>
 </div>
 
@@ -166,6 +174,6 @@ Weixiong Jiang, Kaiwei Yu, Jun Wu, **Tianjiao Dai**, Haiping Zhu
 
 **Applied soft computing 170:112737, 2024**
 
-- We 
+
 </div>
 </div>
