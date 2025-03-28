@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MDL1WVERJK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MDL1WVERJK');
+</script>
+
 - 我在华中科技大学船舶与海洋工程学院工作，现任副教授，硕士生导师。
 - 长期专注于深海海底管道，非粘结性柔性立管，动态脐带缆和海底电缆结构强度分析，截面设计分析，稳定性以及水动力分析的研究工作。
 - 积极拓展该领域，将海洋柔性管线与人工智能有效结合。
