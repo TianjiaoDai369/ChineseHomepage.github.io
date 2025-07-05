@@ -232,8 +232,8 @@ Project: Dynamic umbilical JIP
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/HUST.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-在[华中科技大学](https://www.hust.edu.cn)工作中，获得以下项目：
-1. 非粘结柔性立管结构失效分析（中国，企业资助）（2025 - 2026年）
+在[华中科技大学](https://www.hust.edu.cn)工作中，获得以下纵向项目：
+
 
 2. 轻质动态电力电缆设计，重点研发计划子课题（中华人民共和国自然资源部）（2025 - 2027年）
 
@@ -250,6 +250,9 @@ Project: Dynamic umbilical JIP
 6. 应用于中国西江（中海油）油气田的非粘结柔性管道疲劳寿命预测（企业资助）（2021 - 2022年）
 - 对浮式生产储卸油装置动态运动以及波浪和水流联合荷载条件下的柔性管道进行整体响应分析。
 - 开发一种针对环形层潮湿或充满流体时管道疲劳寿命评估的新方法，显著节省数值分析计算时间。 
+在[华中科技大学](https://www.hust.edu.cn)工作中，获得以下横向项目：
+
+1. 非粘结柔性立管结构失效分析（中国，企业资助）（2025 - 2026年）
 
 </div>
 </div>
