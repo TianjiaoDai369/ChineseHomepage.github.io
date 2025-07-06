@@ -14,7 +14,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/publication5.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Energy efficient design of an SST-flowline system using a coupled dynamic analysis approach](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:Se3iqnhoufwC)
+[Energy efficient design of an SST-flowline system using a coupled dynamic analysis approach](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:Se3iqnhoufwC),Volume 294, 15 February 2024, 116836
 
 **Tianjiao Dai**,Jiaxuan Zhang,Yucong Ma,Xing Yihan*
 
@@ -30,7 +30,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/publication4.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Application of a data-driven approach for maximum fatigue damage prediction of an unbonded flexible riser](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:roLk4NBRz8UC)
+[Application of a data-driven approach for maximum fatigue damage prediction of an unbonded flexible riser](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:roLk4NBRz8UC),Volume 306, 15 August 2024, 118053
 
 **Tianjiao Dai**, Jiaxuan Zhang, Chao Ren*, Yihan Xing, Svein Sævik, Naiquan Ye, Xing Jin, Jun Wu
 
@@ -46,7 +46,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/publication3.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Experimental and numerical study on dynamic stress and curvature in the steel tube umbilical](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:W7OEmFMy1HYC)
+[Experimental and numerical study on dynamic stress and curvature in the steel tube umbilical](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:W7OEmFMy1HYC),Volume 72, July 2020, 102724
 
 **Tianjiao Dai**,Sævik, Svein; Ye, Naiquan
 **Marine Structure, 2020**
@@ -60,7 +60,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/publication2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An anisotropic friction model in non-bonded flexible risers](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:WF5omc3nYNoC)
+[An anisotropic friction model in non-bonded flexible risers](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:WF5omc3nYNoC),Volume 59, May 2018, Pages 423-443
 
 **Tianjiao Dai**,Sævik, Svein; Ye, Naiquan
 **Marine Structure, 2018**
@@ -75,7 +75,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/publication1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Friction models for evaluating dynamic stresses in non-bonded flexible risers](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:IjCSPb-OGe4C)
+[Friction models for evaluating dynamic stresses in non-bonded flexible risers](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:IjCSPb-OGe4C),Volume 55, September 2017, Pages 137-161
 
 **Tianjiao Dai**,Sævik, Svein; Ye, Naiquan
 **Marine Structure, 2017**
