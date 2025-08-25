@@ -10,3 +10,6 @@
 我喜欢循序渐进地指导学生学习，从研究方法到独立撰写✍️SCI论文，同时带领他们参与工业界项目，培养学生独立💡思考和科研能力。
 
 欢迎具有较好数学和英语基础，且对船舶结构力学、固体力学有强烈兴趣的同学加入我们。欢迎给我发邮件[tianjiao_dai@163.com](tianjiao_dai@163.com)
+
+这是我英文介绍 [my CV in English](https://tianjiaodai369.github.io/TianjiaoDai369.github.io
+/) 欢迎大家来了解我
