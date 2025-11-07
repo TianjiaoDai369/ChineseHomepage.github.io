@@ -4,7 +4,7 @@
 - 长期（15 年）专注于深海🌊海底管道，非粘结性柔性立管，动态脐带缆和海底⚡电缆结构强度分析，截面设计分析，稳定性以及水动力分析的研究工作🚢。积极拓展该领域，将海洋柔性管线与人工智能有效结合。
 - 这几年，我有幸主持过国家基金委青年基金、国家重点研发子课题、科技部高端专家项目、全国重点实验室项目以及多项校企合作课题。我的研究成果已经服务于祖国南海，在位柔性管的疲劳寿命分析里发挥了作用。
 - 在Bflex软件开发中，我亲手打造了五个全新的摩擦模型，用来分析铠装钢丝的应力。这个突破提高了柔性管缆疲劳寿命预测的准确性。
-- 在《Marine Structures》，《Ocean engineering》，《Ship and offshore structures》，《Reliability Engineering & System Safety》期刊及OMAE国际会议发表11篇高水平国际文章，申请国家发明专利1项，软著2项。
+- 在《Marine Structures》，《Ocean engineering》，《Ship and offshore structures》，《Reliability Engineering & System Safety》期刊及OMAE国际会议发表12篇高水平国际文章，申请国家发明专利1项，软著2项。
 - 积极与🌍挪威科技大学、SINTEF OCEAN、挪威斯塔万格大学等国际伙伴展开合作🤝，共同探索海洋工程的新技术和新方法。
 
 我喜欢循序渐进地指导学生学习，从研究方法到独立撰写✍️SCI论文，同时带领他们参与工业界项目，培养学生独立💡思考和科研能力。
