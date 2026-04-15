@@ -11,6 +11,18 @@
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/IGAcontact.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Isogeometric contact analysis in subsea umbilical and power cables](https://www.sciencedirect.com/science/article/abs/pii/S0951833925001832)
+
+**Tianjiao Dai**, Shuo Yang, Xing Jin*, Svein Sævik, Jiaxuan Zhang, Jun Wu, Naiquan Ye
+
+**Marine Structures, Volume 106, 30 January 2026, 103960**
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/publication5.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
