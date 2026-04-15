@@ -41,7 +41,6 @@
 - 博士时间：2022-至今，论文题目：“深海柔性管缆中的摩擦机理研究”
 - 两年硕士期间，发表 Ocean Engineering 期刊论文，2 篇：
 - Tianjiao Dai, Jiaxuan Zhang, Chao Ren*, Yihan Xing, Svein Sævik, Naiquan Ye, Xing Jin, Jun Wu. Application of a data-driven approach for maximum fatigue damage prediction of an unbonded flexible riser. Ocean Engineering. Volume 306, 2024, 118053
-
 - Tianjiao Dai, Jiaxuan Zhang, Yucong* Ma, Yihan Xing. Energy efficient design of an SST-flowline system using coupled dynamic analysis approach. Ocean Engineering. Volume 294, 2024, 116836
 
 5. 郑斌
@@ -71,3 +70,5 @@
 - 2024年6月，船舶与海洋工程专业2020级：李楠茜、邓阳康、陈杰
 - 2025年6月，船舶与海洋工程专业2021级：李沂隆、冯天宇、丁聚贤
 - 2026年6月，船舶与海洋工程专业2022级：毛愚、单天恩
+
+全部信息更新于 2026 年 4 月 15 日
